@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog|Abhishek</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 04 Jun 2020 18:49:57 +0530</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2020 18:49:57 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Abhishek's Blog</title>
+        <description>
+</description>
+        <pubDate>Sun, 17 Jun 2001 06:27:01 +0530</pubDate>
+        <link>http://localhost:4000/teste/</link>
+        <guid isPermaLink="true">http://localhost:4000/teste/</guid>
+        
+        <category>{{slug}}</category>
+      </item>
+    
+  </channel>
+</rss>
