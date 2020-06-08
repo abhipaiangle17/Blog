@@ -11,7 +11,7 @@ description: Some description.
 
 # About
 
-It's not about ideas, it's about ideas making happen!!
+It's not about ideas, it's about making the ideas happen!!
 
 Hey Reader, I am Abhishek, a Curious Coder. This is my blog where I write about my Research, Projects, Current Affairs, and basically what I find interesting. It was the night of 3rd June 2020, when the World was taking a break due to the pandemic, the idea of writting blog hit up my mind. Looking forward to entertain you!! Go have a read !
 

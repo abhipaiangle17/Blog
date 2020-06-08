@@ -9,7 +9,7 @@ permalink: /about/
 
 # About
 
-> It's not about ideas, it's about ideas making happen!!
+> It's not about ideas, it's about making the ideas happen!!
 
 Hey Reader, 
 
