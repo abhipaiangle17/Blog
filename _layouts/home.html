@@ -30,7 +30,7 @@ layout: main
     <!-- Posts -->
     <section id="grid" class="row flex-grid">
         {% for post in posts %}
-        {% if post.title!="Abhishek Pai Angle" %}
+        {% if post.author!="abhi" %}
             <article class="box-item">
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
