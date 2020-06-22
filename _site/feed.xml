@@ -5,9 +5,23 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jun 2020 21:05:28 +0530</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2020 21:05:28 +0530</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2020 19:10:26 +0530</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2020 19:10:26 +0530</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Spending a Year at IIT Bombay</title>
+        <description>&lt;p&gt;IIT Bombay, one of the most prestigious institutes in India and the world offers a little more, actually a lot more than just education. Having spent a year at this premiere institute where you will find crème de la crème, I have some things to express.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/iitb/IMG_20190726_120753.jpg&quot; alt=&quot;placeholder&quot; /&gt;&lt;/p&gt; &lt;p&gt;29 June 2019: It was 6 in the morning when I landed in Mumbai with my parents. As we were heading towards my dream college, several thoughts popped up in my mind. How I learnt about IITs ? How has the struggle been for the last 2 years ? What...</description>
+        <pubDate>Sun, 21 Jun 2020 17:56:40 +0530</pubDate>
+        <link>http://localhost:4000/spending-a-year-at-iit-bombay/</link>
+        <guid isPermaLink="true">http://localhost:4000/spending-a-year-at-iit-bombay/</guid>
+        
+        <category>blog</category>
+        
+        <category>life</category>
+        
+        <category>blog</category>
+      </item>
     
       <item>
         <title>Abhishek Pai Angle</title>
@@ -17,7 +31,7 @@
         <link>http://localhost:4000/teste/</link>
         <guid isPermaLink="true">http://localhost:4000/teste/</guid>
         
-        <category>{{slug}}</category>
+        <category></category>
       </item>
     
   </channel>

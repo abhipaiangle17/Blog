@@ -15,7 +15,7 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Portfolio
+  - title: Professional Me
     url: /portfolio  
   - title: Photography
     url: /photography
@@ -98,4 +98,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: 

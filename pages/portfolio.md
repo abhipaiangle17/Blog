@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Portfolio
+title: portfolio
 description: Some description.
 permalink: /portfolio/
 ---
 
-# Portfolio
+# Professional Me
 
 ### Education
 
@@ -32,30 +32,17 @@ permalink: /portfolio/
 ### Skills
 
 * C++
-  - Object Oriented Programming
-  - Data Structures
-  - Data File Handling
-  - Sort and Search Algorithms
 
 * Python 
-  - Object Oriented Programming
-  - Data Structures
-  - Data Analysis using NumPy, Matplotlib, Pandas, Seaborn
+
+* Data Analysis
+  - Matplotlib, Seaborn, Pandas 
 
 * Machine Learning
-  - Data Preprocessing
-  - Regression Models 
-  - Classification Models 
-  - Scikit-learn module
-  - Reinforcement Learning Models such as Thompson Sampling and Upper Confidence Bound
-  - Artificial Neural Networks using Keras 
-  - Convolutional Neural Networs using Keras
+  - Regression, Classification, Artificial Neural Network, Convolutional Neural Network
 
-* Web Development
-  - HTML
-  - CSS
-  - JavaScript
-  - Flask   
+* Web Development 
+  - Javascript, Flask, Django, Angular, SQL, Jekyll   
 
 ### Teams
 
