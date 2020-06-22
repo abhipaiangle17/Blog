@@ -11,20 +11,20 @@ permalink: /photography/
 <hr>
 
 
-![placeholder](/assets/img/pic6.jpg)
+![Plumeria](/assets/img/pic6.png)
 > Plumeria!
 
 <hr>
 
-![placeholder](/assets/img/pic5.jpg)
+![Sunset](/assets/img/pic5.png)
 > A perfect evening!
 
 <hr>
 
-![placeholder](/assets/img/pic2.jpg)
+![Butterfly](/assets/img/pic2.png)
 > Am I beautiful?
 
 <hr>
 
-![placeholder](/assets/img/pic1.jpg)
+![Butterfly](/assets/img/pic1.png)
 > Just posing right!!!
