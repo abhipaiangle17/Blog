@@ -43,7 +43,7 @@ We were back at IIT, but this time with luggage and hopes. The hostel road was f
 Soon I learned that this was not it. There were different clubs for different activities like Coding, Robotics,  Aeromodelling, Music, Dance, Literature, Photography and whatever comes to mind. Each club had their own orientations and events. This was the time I remembered one of the professors saying in an orientation “There are so many ongoing activities in IIT, that you will feel education is an extracurricular activity here”. The lectures started soon and even the lecture halls did not wait to surprise me.The Architecture was great. Initially it was hard to grasp concepts but soon I got used to the fact that it is going to be challenging and I have to put some extra effort into understanding things. It was all of a sudden new learning experience, shifting from paper and pen to pdfs and slides.
 
  ![placeholder](/assets/img/iitb/IMG_20190730_141320.jpg)
-> LC-001, Lecture Hall Complex, IIT Bombay
+> LA-001, Lecture Hall Complex, IIT Bombay
 
 I was an ambivert back then. I mostly used to hang out with my Goan friends. It took me a week or a while to make friends with wingies( wingmates ). We started to know each other and our backgrounds since every other guy was from a different location right up from Delhi and UP, way down to Kerala. Then things started going pretty smooth in our wing. There were talks, movies, games being played upto 2-3 A.M in the night. There were night canteens in every hostel which operated till 3 A.M which killed our late night hunger.
 
