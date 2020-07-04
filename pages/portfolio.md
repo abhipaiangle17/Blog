@@ -29,21 +29,6 @@ permalink: /portfolio/
 * Campus Ambassador of MyCaptain at IIT Bombay
   - November 2019 - January 2020
 
-### Skills
-
-* C++
-
-* Python 
-
-* Data Analysis
-  - Matplotlib, Seaborn, Pandas 
-
-* Machine Learning
-  - Regression, Classification, Artificial Neural Network, Convolutional Neural Network
-
-* Web Development 
-  - Javascript, Flask, Django, Angular, SQL, Jekyll   
-
 ### Teams
 
 * Intelligent Agent ( Seasons of Code 2020)
