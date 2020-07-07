@@ -16,11 +16,12 @@ menu:
   - title: About
     url: /about
   - title: Professional Me
-    url: /portfolio  
+    url: /portfolio
+  - title: Projects
+    url: /projects  
   - title: Photography
     url: /photography
-  - title: Projects
-    url: /projects
+
 
 
 # Social Media Settings
