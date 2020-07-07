@@ -19,6 +19,8 @@ menu:
     url: /portfolio  
   - title: Photography
     url: /photography
+  - title: Projects
+    url: /projects
 
 
 # Social Media Settings
