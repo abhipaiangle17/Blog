@@ -26,7 +26,7 @@ This is a Chat Application I have developed using Flask and WebSockets( SocketIO
 
 * Description
 
-This is a Book Review web application I have developed using Flask. App is presently deployed on heroku and database used is PostgreSQL. This application has details of over 5000 books in its database. A user can create an account to login using Username and Password and search for the required book. The user can write a review and rate a book out of 5. The user is also allowed to see the reviews written by other users.
+This is a Book Review web application I have developed using Flask. App is presently deployed on heroku and database used is PostgreSQL. This application has details of over 5000 books in its database. A user can create an account to login using Username and Password and search for the required book. The user can write a review and rate a book out of 5. The user is also allowed to see the reviews written by other users. The UI is not mobile responsive yet. So if you are using it on mobile, please see the  'desktop-site' version(Tilt your phone if possible).
 
 * [Link](http://app-pibooks.herokuapp.com) to the application!
 
