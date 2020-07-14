@@ -1,5 +1,5 @@
 ---
-date: 2020-06-21 12:26:40
+date: 2020-07-14 12:26:40
 layout: post
 title: Spending a Year at IIT Bombay
 subtitle: Part 2
