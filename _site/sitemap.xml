@@ -226,6 +226,13 @@
         </url>
     
         <url>
+            <loc>/spending-a-year-at-iit-bombay/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-21</lastmod>
+        </url>
+    
+        <url>
             <loc>/teste/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
