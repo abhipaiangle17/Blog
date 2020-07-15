@@ -1,7 +1,7 @@
 ---
 date: 2020-07-14 12:26:40
 layout: post
-title: Spending a Year at IIT Bombay
+title: Spending a Year at IIT Bombay 2
 subtitle: Part 2
 description: Continuation to the blog series Spending a Year at IIT Bombay
 image: /assets/img/iitb/IMG_20190920_034816_disp.png

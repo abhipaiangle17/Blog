@@ -1,7 +1,7 @@
 ---
 date: 2020-06-21 12:26:40
 layout: post
-title: Spending a Year at IIT Bombay
+title: Spending a Year at IIT Bombay 1
 subtitle: Part 1
 description: This is my first blog based on my initial days at IIT Bombay
 image: /assets/img/iitb/IMG_20190629_152104.jpg
