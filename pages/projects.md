@@ -14,7 +14,7 @@ permalink: /projects/
 
 * Description
 
-This is one of my Team project for Innovation Cell, IIT Bombay. It is focused towards developing two bots. First bot is capable of detecting obstacles and finding a path without getting hit autonomously. It is also capable of detecting a specific text if it exists in its view. Task of second bot is to follow the first bot autonomously. Used sensors are Camera and Hokuyu Laser Sensor. Developed in ROS, used rospy library for scripts and Gazebo for environment and simulation. 
+This is one of my Team projects for Innovation Cell, IIT Bombay. It is focused towards developing two bots. First bot is capable of detecting obstacles and finding a path autonomously without getting hit. It is also capable of detecting a specific text if it exists in its view. Task of second bot is to follow the first bot autonomously. Used sensors are Camera and Hokuyu Laser Sensor. Developed in ROS, used Rospy library for scripts and Gazebo for environment and simulation. 
 
 ### Chat Application 
 
