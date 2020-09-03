@@ -4,28 +4,27 @@ title: Work
 description: Some description.
 permalink: /work/
 ---
-
-
-## Hey, I Am Open For
+<hr>
 
 ![Work](/assets/img/work/work.jpg)
+
+## Fields I am willing to work on 
 
 ### Web Development
 
 - I have hands-on experience on Django, Flask, Jekyll, Javascript, Bootstrap 4
-- If it is any other Framework/ Language other than what I mentioned, I am more than willing to learn and implement it. 
+- If your project is based on any other Framework/ Language other than what I have mentioned, I am more than willing to learn and implement it
 
 ### Deep Learning
 
 - I am actively involved in learning more and more about Artificial Neural Networks, Convolutional Neural Networks, Image Processing, Reinforcement Learning etc
-- I have used Tensorflow/ Keras for my models.
-
+- I have used Tensorflow/ Keras for my models
 
 ### Data Science
 
-- Studied concepts of Descriptive Statistics, Regression, Probability, Classification
-- Used Python for Data Analysis, specifically Scikit-learn, Matplotlib, Seaborn libraries
-- Used R and MATLAB for Plotting and Analysis
+- I have studied the concepts of Descriptive Statistics, Regression, Probability, Classification
+- I have used Python for Data Analysis, specifically Scikit-learn, Matplotlib, Seaborn libraries
+- I have used R and MATLAB for Plotting and Analysis
 
 ## Why Should You Hire Me ?
 
