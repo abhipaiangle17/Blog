@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Abhishek Pai Angle" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.jpeg" alt="Abhishek Pai Angle" width="200">
 
 # About
 
