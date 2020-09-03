@@ -8,7 +8,7 @@ permalink: /work/
 
 ![Work](/assets/img/work/work.jpg)
 
-## Fields I am willing to work on 
+## Fields I Am Willing To Work On 
 
 ### Web Development
 
