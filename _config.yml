@@ -15,10 +15,10 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Work
-    url: /work
-  - title: Projects
-    url: /projects  
+  #- title: Work
+  #  url: /work
+  #- title: Projects
+  #  url: /projects  
   - title: Photography
     url: /photography
 
