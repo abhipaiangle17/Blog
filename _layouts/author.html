@@ -2,11 +2,11 @@
 layout: page
 ---
 
-<div class="staff">
+<div class="staff" style="background-color:#141414; color: rgb(255, 255, 255);">
   {% if page.photo %}
     <img class="img-rounded" src="{{ page.photo }}" alt="{{ author.display_name }}">
   {% else %}
-    <img class="img-rounded" src="/assets/img/user.jpg" alt="{{ author.display_name }}">
+    <img class="img-rounded" src="/assets/img/profile.png" alt="{{ author.display_name }}">
   {% endif %}
 
   <h1 class="name">{{ page.display_name }}</h1>
@@ -15,7 +15,7 @@ layout: page
     <h2 class="position">{{ page.position }}</h2>
   {% endif %}
 
-  <p>{{ page.bio }}</p>
+  <p style="background-color:#141414; color: rgb(255, 255, 255);">{{ page.bio }}</p>
 
   <h2>Posts</h2>
 

@@ -12,19 +12,14 @@ permalink: /photography/
 
 
 ![Plumeria](/assets/img/pic6.png)
-> Plumeria!
-
 <hr>
 
 ![Sunset](/assets/img/pic5.png)
-> A perfect evening!
 
 <hr>
 
 ![Butterfly](/assets/img/pic2.png)
-> Am I beautiful?
 
 <hr>
 
 ![Butterfly](/assets/img/pic1.png)
-> Just posing right!!!

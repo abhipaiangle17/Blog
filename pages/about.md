@@ -5,18 +5,24 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.jpeg" alt="Abhishek Pai Angle" width="200">
+<img class="rounded mx-auto d-block img-thumbnail" src="/assets/img/uploads/profile.png" alt="Abhishek Pai Angle" width="400">
 
-# About
-
-> It's not about ideas, it's about making the ideas happen!!
-
-Hey Reader, 
-
-Abhishek here , a Curious Coder.
-
-I am 2nd year Undergaduate student at IIT Bombay, specialising in Metallurgical Engineering and Materials Science. My interests are Coding, Machine Learning, Exploring new places and Going on adventures. I like Table-tennis, Cricket, Basketball and Football. In my free time I prefer binge-watching over sleeping. 
-
-This is my blog where I write about my Research, Projects, Current Affairs, and basically what I find interesting in my life. It was the night of 3rd June 2020, when the World was taking a break due to the pandemic, the idea of writting blog hit up my mind. Looking forward to entertain you!! Go have a read !
-
+<h1>About Me</h1>
+<p style="color: rgb(255, 255, 255);">
+<!--
+ It's not about ideas, it's about making the ideas happen!! 
+-->
+Hey there, 
+<br><br>
+Glad that you landed here. My thoughts might entertain you or maybe get some giggle out of you but will definitely not bore you! But first let me introduce myself. 
+<br><br>
+Abhishek here, Undergaduate Sophomore at IIT Bombay. Turning caffeine into code since past 2 years. My areas of interest are Deep Learning, Image Processing, Automation and Web Development but definitely not limiting my domain to these. A lot of things have to be explored that I know I dont know and that I dont know I dont know.  
+<br><br>
+Some of my activities at the institute include being Convener for Web and Coding Club which is the official programming club of the Institute. I am also part of the tech team Innovation Cell - IIT Bombay, working as Jr. Computer Vision Engineer for the project SeDriCa, India's first self driving car. You may refer to my resume for all the technical details.
+<br><br>
+This is my personal landing page where I write Blogs, Projects, Photography and whatever I find interesting in my life. It was the night of 3rd June 2020, when the World was taking a break due to the pandemic, the idea of writting blog hit up my mind. Also wanted to improve my Web Dev skills. Looking forward to entertain you!! Go have a read !
+<br><br>
 Ciao!
+<br><br>
+
+</p>
