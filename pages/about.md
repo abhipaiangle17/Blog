@@ -16,7 +16,7 @@ Hey there,
 <br><br>
 Glad that you landed here. My thoughts might entertain you or maybe get some giggle out of you but will definitely not bore you! But first let me introduce myself. 
 <br><br>
-Abhishek here, Undergaduate Sophomore at IIT Bombay. Turning caffeine into code since past 2 years. My areas of interest are Deep Learning, Image Processing, Automation and Web Development but definitely not limiting my domain to these. A lot of things have to be explored that I know I dont know and that I dont know I dont know.  
+Abhishek here, Undergaduate Sophomore at IIT Bombay. Turning caffeine into code since past 2 years. My areas of interest are Deep Learning, Image Processing, Automation and Web Development but not limiting my domain to these. A lot of things have to be explored that I know that I don't know and that I don't know that I don't know.  
 <br><br>
 Some of my activities at the institute include being Convener for Web and Coding Club which is the official programming club of the Institute. I am also part of the tech team Innovation Cell - IIT Bombay, working as Jr. Computer Vision Engineer for the project SeDriCa, India's first self driving car. You may refer to my resume for all the technical details.
 <br><br>
