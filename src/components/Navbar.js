@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import profilepic from '../img/profile_photo.jpg';
+import profilepic from '../img/profile_photo.png';
 import Navitem from './Navitem';
 
 class Navbar extends Component {
