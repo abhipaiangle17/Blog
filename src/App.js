@@ -13,11 +13,10 @@ import Portfolio from './contents/Portfolio';
 
 const GlobalStyle = createGlobalStyle`
   body{
-  background: linear-gradient(${props => props.theme.mode === 'dark' ? '#868f96, #596164' : '(#ff758c,#764ba2'});
+  background: linear-gradient(${props => props.theme.mode==='dark' ? '#868f96, #596164' : '(#ff758c,#764ba2'});
   }
 
 `
-
 function App() {
   const [theme, setTheme] = useState({ mode: 'dark'});
   return (
@@ -25,19 +24,19 @@ function App() {
       <>
     <GlobalStyle />
     <Router>
-    <div className="App">
-    <Navbar />
+          <div className="App">
+          <Navbar />
     <Route exact path="/">
-    <Home />
+          <Home />
     </Route>
     <Route path="/about">
-    <About />
+          <About />
     </Route>
     <Route path="/portfolio">
-    <Portfolio />
+          <Portfolio />
     </Route>
     <Route path="/contact">
-    <Contact />
+          <Contact />
     </Route>
     <div class="back1 glass" onClick={e => setTheme(
       theme.mode === 'dark' ? {mode: 'light'} : {mode: 'dark'}
