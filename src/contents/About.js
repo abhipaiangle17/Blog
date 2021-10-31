@@ -6,7 +6,9 @@ class About extends Component {
         return (
             <div className="condiv">
                 <h1 className="subtopic">About Me</h1>
-                <div className="hr_line line2 glass"><div className="inner2"></div></div>
+                <div className="hr_line line2 glass">
+                    <div className="inner2"> </div>
+                </div>
                 <h2 className="abouthead">Abhishek Pai Angle</h2>
                 <p>Just Another Developer</p>
                 <br></br>
@@ -37,8 +39,8 @@ class About extends Component {
                 <div class="sk s2 glass">Javascript</div>
                 <div class="sk s3 glass">Python</div>
                 <div class="sk s4 glass">Tensorflow</div>
-                <div class="sk s5 glass">SQL</div>
-                <div class="sk s6 glass">GraphQL</div>
+                <div class="sk s5 glass">GraphQL</div>
+                <div class="sk s6 glass">AWS</div>
             </div>
         )
     }
