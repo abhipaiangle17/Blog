@@ -10,10 +10,12 @@ class About extends Component {
                 <h2 className="abouthead">Abhishek Pai Angle</h2>
                 <p>Just Another Developer</p>
                 <br></br>
-                <p className="p10">Abhishek here, Undergaduate Sophomore at IIT Bombay. Turning caffeine into code since past 2 years. My areas of interest are Deep Learning, Image Processing, Automation and Web Development but not limiting my domain to these. A lot of things have to be explored that I know that I don't know and that I don't know that I don't know.
-                </p>
+                <p className="p10">I am Abhishek, a pre-final year undergraduate at IIT Bombay.</p>
+                
                 <p>
-                    Some of my activities at the institute include being Convener for Web and Coding Club which is the official programming club of the Institute. I am also part of the tech team Innovation Cell - IIT Bombay, working as Jr. Computer Vision Engineer for the project SeDriCa, India's first self driving car. You may check out my resume to know more about my work.
+                I have keen interest in Artificial Intelligence and Software Development and have worked on several projects in the domain. I get fascinated by breakthroughs in technology and how they are changing the world at an enormous rate.</p>
+                <p>
+                I am an avid learner and take interest in exploring new areas and building solutions to make this world a better place using technology, one byte at a time 😄.
                 </p>
                 <div className="Edu">
                     <div class="back1 back2"><i class="fa fa-book i1 i3"></i></div>
