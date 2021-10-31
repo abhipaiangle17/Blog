@@ -8,7 +8,7 @@ class Portfolio extends Component {
     render() {
         return (
             <div className="condiv">
-            <h1 className="subtopic">My Work</h1>
+            <h1 className="subtopic">My Projects</h1>
             <div className="hr_line line2 glass"><div className="inner2 inner3"></div></div>
             <div class="port_out port1 glass"><a href="https://drive.google.com/drive/folders/1wTkf9lydWdtbvhunMsn-tRUhUtOuc0dS?usp=sharing"><img src={project1} className="po1"></img></a></div>
             <div class="port_out port2 glass"><a href="https://github.com/abhipaiangle/pi-chat"><img src={project2} className="po1"></img></a></div>
