@@ -26,7 +26,7 @@ class About extends Component {
                     <div className="vr_inner inn2"></div>
                 </div>
                 <h4>B.Tech in MEMS with Minor in CSE</h4>
-                <p className="p1">IIT Bombay, India</p>
+                <p className="p1">Indian Institute of Technology Bombay, India</p>
                 <p className="p1"><i class="fa fa-calendar i2"></i>Aug 2019 - 2023</p>
                 <h4>High School</h4>
                 <p className="p1">Mushtifund Aryaans Higher Secondary School, Goa</p>
